@@ -1,4 +1,3 @@
-import './App.css';
 import { Fragment } from 'react';
 import { publicRoutes } from '~/routes';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
